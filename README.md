@@ -1,4 +1,4 @@
-# test-repo
+test-repo
 ==
 Daftar biodata siswa Dicoding Academy
 --
