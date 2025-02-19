@@ -32,3 +32,10 @@
    Agama  : Islam<br>
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br>
+
+6. Nama   : Firmasnyah<br>
+   NIM    : H2020000009<br>
+   JK     : Laki - Laki<br>
+   Agama  : Islam<br>
+   TTL    : Aceh, 11 Desember 2001<br>
+   Alamat : JL Aceh Utara<br>
