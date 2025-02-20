@@ -1,4 +1,4 @@
-test-repo Ini adalah Branch Main dan Develompent
+test-repo - ini adalah Branch Main
 ==
 Daftar biodata siswa Dicoding Academy
 --
